@@ -18,4 +18,4 @@ There are 2 given examples (and_gate and alu).
 Make sure to leave space between every element 
 
 in your VHDL code if you want to make this work. 
-\
+
