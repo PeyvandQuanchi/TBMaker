@@ -19,14 +19,14 @@ To use TBMaker, you need Python 3.x installed on your system. You also need to i
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/TBMaker.git
+git clone https://github.com/PeyvandQuanchi/TBMaker
 ```
 ## Usage
 Command Line
 
 After installation, you can run the program from the command line or terminal. Navigate to the project directory and run the following command:
 ```bash
-python tbmaker.py
+python Tbmaker.py
 ```
 
 This will launch the GUI where you can load your VHDL file and specify the output directory for the generated testbench.
